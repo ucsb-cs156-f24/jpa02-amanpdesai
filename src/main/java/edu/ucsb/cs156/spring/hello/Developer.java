@@ -1,4 +1,4 @@
-package edu.ucsb.cs156.spring.hello;
+pckage edu.ucsb.cs156.spring.hello;
 
 /**
  * A class with static methods to provide information about the developer.
@@ -16,11 +16,8 @@ public class Developer {
      */
 
     public static String getName() {
-        // TODO: Change this to your name
-        // You may use just the name that is used on <https://bit.ly/cs156-f24-teams>
-        // i.e. your first name, or your first and initial of last name
 
-        return "Chris G.";
+        return "Aman D.";
     }
 
     /**
@@ -29,8 +26,7 @@ public class Developer {
      */
 
     public static String getGithubId() {
-        // TODO: Change this to your github id
-        return "cgaucho";
+        return "amanpdesai";
     }
 
     /**
@@ -39,14 +35,13 @@ public class Developer {
      */
     
     public static Team getTeam() {
-        // TODO: Change this to your team name
-        Team team = new Team("f24-xx");
-        team.addMember("Alice");
-        team.addMember("Bob");
-        team.addMember("Chris G.");
-        team.addMember("Danny");
-        team.addMember("Eve");
-        team.addMember("Frances");
+        Team team = new Team("f24-14");
+        team.addMember("Rio P.");
+        team.addMember("Oviya S.");
+        team.addMember("Aman D.");
+        team.addMember("Jennifer Z.");
+        team.addMember("Vala B.");
+        team.addMember("Kevin Y.");
         return team;
     }
 }
