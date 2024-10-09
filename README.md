@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f24/jpa02-amanpdesai
 
-Deployed at: https://jpa02-amanpdesai.dokku-14.cs.ucsb.edu
+Deployed at: [https://jpa02-amanpdesai.dokku-14.cs.ucsb.edu](http://jpa02-amanpdesai.dokku-14.cs.ucsb.edu)
 
 
 # About this repo
