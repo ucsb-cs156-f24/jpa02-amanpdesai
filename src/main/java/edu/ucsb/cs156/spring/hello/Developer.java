@@ -1,4 +1,4 @@
-pckage edu.ucsb.cs156.spring.hello;
+package edu.ucsb.cs156.spring.hello;
 
 /**
  * A class with static methods to provide information about the developer.
